@@ -1,2 +1,2 @@
 # VBA-challenge
-Homework #2: VBA scripting
+Analyzing real stock market data using VBA
